@@ -6,4 +6,4 @@ logging:
   level:
     io:
       pivotal:
-        training: INFO 
+        training: DEBUG 
